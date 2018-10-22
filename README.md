@@ -1,3 +1,3 @@
 # SomeAboutPython
-Some random algorithms in python.
+Algoritmos de repaso en python
 Histograma de una imagen en escala de grises
